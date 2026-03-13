@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'Emmang'
+        description: 'Nama Agen'
         required: true
         default: 'Emmang'
       agent_description:
